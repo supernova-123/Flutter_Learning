@@ -1,0 +1,11 @@
+（1）flutter build apk 
+生成apk安装包
+
+（2）flutter run -d chrome --web-renderer html
+run表示运行
+-d chrome表示用chrome运行
+--web-renderer 表示使用指定的网页渲染器，包括auto(默认)、html、CanvasKit
+当图片无法加载时，考虑切换为移动端或者用html渲染
+
+（3）flutter packages upgrade
+更新所有包
