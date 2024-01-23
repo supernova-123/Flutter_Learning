@@ -1,5 +1,5 @@
 （1）flutter build apk 
-生成apk安装包
+生成apk安装包，不能在中文目录下构建。
 
 （2）flutter run -d chrome --web-renderer html
 run表示运行
