@@ -1,0 +1,3 @@
+（1）CircularProgressIndicator() 一个经典的加载圈圈
+
+（2）MediaQuery.of(context).____ 获取设备信息
